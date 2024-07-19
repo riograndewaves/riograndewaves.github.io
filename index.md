@@ -14,11 +14,11 @@ layout: home
 
 [Lower Rio Grande Region Water Planning Open House](https://mainstreamnm.org/events/lower-rio-grande-region-water-planning-open-house-in-las-cruces/)
 
+[New Mexico's Water Future is in Your Hands](New Mexico's Water Futue is in Your Hands.pdf)
+
 [Office of the State Engineer Regional water planning](https://www.ose.nm.gov/Planning/rwp.php)
 
 ### Information
-
-[New Mexico's Water Future is in Your Hands](New Mexico's Water Futue is in Your Hands.pdf)
 
 [Water infographic](Infographic Final (3).pdf)
 
