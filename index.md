@@ -10,6 +10,10 @@ layout: home
 
 ## Rio Grande Waves
 
+Rio Grande Waves is a grassroots startup formed by volunteers with
+an interest in increasing public input into decisions affecting
+water in southern New Mexico.
+
 ### Regional water planning
 
 [Lower Rio Grande Region Water Planning Open House](https://mainstreamnm.org/events/lower-rio-grande-region-water-planning-open-house-in-las-cruces/)
@@ -20,7 +24,7 @@ layout: home
 
 ### Information
 
-[Water infographic](Infographic Final (3).pdf)
+[Lower Rio Grande water infographic](Infographic Final (3).pdf)
 
 
 ### July 17 Healthy Waters, Healthy Futures Workshop
