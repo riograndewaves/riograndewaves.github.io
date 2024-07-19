@@ -20,7 +20,7 @@ layout: home
 
 [Fred Phillips talk:Assessment of Impacts of Climate on New Mexico Water Resources over the Next 50 Years](Phillips Water-Climate_Las Cruces 2024.pdf)
 
-[Peggy Barroll talk: Groundwater Levels and Groundwater Pumping in the Lower Rio Grande : Past, Present and Future ](Barroll GW Talk July 2024.pdf):w
+[Peggy Barroll talk: Groundwater Levels and Groundwater Pumping in the Lower Rio Grande : Past, Present and Future ](Barroll GW Talk July 2024.pdf)
 
 
 
