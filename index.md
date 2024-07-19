@@ -23,7 +23,7 @@ layout: home
 [Water infographic](Infographic Final (3).pdf)
 
 
-### Presentations from July 17 Healthy Waters, Healthy Futures
+### July 17 Healthy Waters, Healthy Futures Workshop
 
 [Fred Phillips talk:Assessment of Impacts of Climate on New Mexico Water Resources over the Next 50 Years](Phillips Water-Climate_Las Cruces 2024.pdf)
 
@@ -31,7 +31,7 @@ layout: home
 
 [Chilton Tippin talk: Regional Water Planning](Regional Water Planning - Chilton Tippin.pdf)
 
-### June 26 Healthy Waters, Healthy Futures
+### June 26 Healthy Waters, Healthy Futures Workshop
 
 [Summary of community responses to workshop](Las Cruces Community Conversation Themes .pdf)
 
