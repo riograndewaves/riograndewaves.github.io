@@ -16,7 +16,7 @@ water in southern New Mexico.
 
 ### Regional water planning
 
-[Lower Rio Grande Region Water Planning Open House](https://mainstreamnm.org/events/lower-rio-grande-region-water-planning-open-house-in-las-cruces/)
+[Lower Rio Grande Region Water Planning Open House](https://mainstreamnm.org/events/lower-rio-grande-region-water-planning-open-house-in-las-cruces/) : Information about the July 24 event!
 
 [New Mexico's Water Future is in Your Hands](New Mexico's Water Futue is in Your Hands.pdf)
 
