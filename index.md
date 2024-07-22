@@ -29,7 +29,6 @@ water in southern New Mexico.
 
 - [Lower Rio Grande water infographic](Infographic Final (3).pdf)
 
-
 ### July 17 Healthy Waters, Healthy Futures Workshop
 
 - [Fred Phillips talk:Assessment of Impacts of Climate on New Mexico Water Resources over the Next 50 Years](Phillips Water-Climate_Las Cruces 2024.pdf)
@@ -43,4 +42,3 @@ water in southern New Mexico.
 - [Information on the film: Requiem For A River](https://www.requiemforariver.com/)
 
 - [Summary of community responses to workshop](Las Cruces Community Conversation Themes .pdf)
-
