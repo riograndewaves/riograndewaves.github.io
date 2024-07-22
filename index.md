@@ -37,5 +37,7 @@ water in southern New Mexico.
 
 ### June 26 Healthy Waters, Healthy Futures Workshop
 
+[Information on the film: Requiem For A River](https://www.requiemforariver.com/)
+
 [Summary of community responses to workshop](Las Cruces Community Conversation Themes .pdf)
 
