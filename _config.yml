@@ -21,7 +21,11 @@
 title: Rio Grande Waves
 email: riograndewaves@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Rio Grande WAVES (Water Advocates for Vital Environmental Sustainability) is a local, pop-up water movement launched by volunteers with an interest in increasing public input into decisions affecting water in order to secure a sustainable water future for our river and cultural and natural heritage on the Lower Rio Grande.
+Rio Grande WAVES (Water Advocates for Vital Environmental Sustainability)
+is a local, pop-up water movement launched by volunteers with an
+interest in increasing public input into decisions affecting water
+in order to secure a sustainable water future for our river and
+cultural and natural heritage on the Lower Rio Grande.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://riograndewaves.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 ##twitter_username: jekyllrb
