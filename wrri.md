@@ -6,15 +6,17 @@ title : WRRI survey
 
 ## Make a difference -- provide input on a survey 
 
-   The Bureau of Reclamation has allocated $60 million to mitigate drought impacts on the lower Rio Grande. The Water Resources Research Institute (WRRI) is seeking public input related to how to spend this money. 
+   The Bureau of Reclamation has allocated $60 million of taxpayer dollars to mitigate drought impacts on the lower Rio Grande. The Water Resources Research Institute (WRRI) is seeking public input related to how to spend this money. 
 
 You can make a difference to the health of the Rio Grande in southern New Mexico by providing input!
 
-They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d) for people to provide prioritization of different strategies and, if applicable, to propose specific water projects. It would be great if a large number of people (you!) could respond. 
+They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d) for people to rank strategies to mitigate drought and, if applicable, to propose specific water projects. It would be great if a large number of people (you!) could respond. 
 
    [The survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d) can be completed in just a few minutes -- you can do it now! It has 5 pages:
 
-### Quick roadmap 
+### Quick roadmap of survey
+
+   [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
 
 - page 1: give your contact info and interest in participating in working meetings
 - page 2 : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. Below is our recommended ranking.
@@ -23,6 +25,8 @@ They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e
 - page 5 : final page for "any additional comments" and submission
 
 **We hope that you can complete pages 1 and 2 and then submit it (with any additional comments you might have) on the final page.**
+
+   [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
 
 ### Our recommended ranking for page 2
 
