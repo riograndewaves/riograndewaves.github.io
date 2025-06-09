@@ -14,7 +14,7 @@ Rio Grande WAVES (Water Advocates for Vital Environmental Sustainability) is a l
 
 ### Regional water planning
 
-- WRRI survey on strategies for how to spend $60 million on the Rio Grande in southern NM. Provide input by June 15!
+- [WRRI survey](wrri) on strategies for how to spend $60 million on the Rio Grande in southern NM. Provide input by June 15!
 
 - Attend the [Lower Rio Grande Region Water Planning Open House](https://mainstreamnm.org/events/lower-rio-grande-region-water-planning-open-house-in-las-cruces/) : Information about the July 24 event!
   - online input is also possible at [https://mainstreamnm.org/online-open-house/](https://mainstreamnm.org/online-open-house/)
