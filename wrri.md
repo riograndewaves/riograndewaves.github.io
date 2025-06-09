@@ -10,17 +10,21 @@ title : WRRI survey
 
 You can make a difference to the health of the Rio Grande in southern New Mexico by providing input!
 
-They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d) for people to provide prioritization of different strategies and, if applicable, to propose specific water projects. It would be great if a large number of people (you!) could respond. The deadline is June 15 (this week!).
+They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d) for people to provide prioritization of different strategies and, if applicable, to propose specific water projects. It would be great if a large number of people (you!) could respond. 
 
    [The survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d) can be completed in just a few minutes -- you can do it now! It has 5 pages:
 
+### Quick roadmap 
+
 - page 1: give your contact info and interest in participating in working meetings
-- page 2 : Asks for input on "strategies" (broader than specific projects). It gives 11 such strategies, plus space to add up to 3 of your own, then you move them around to put them in your preferred priority. See below for a recommendation.
+- page 2 : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. Below is our recommended ranking.
 - page 3 : asks for input on "project prioritization", which gives their proposed evaluation scheme ..... but doesn't provide any area for input!
 - page 4 : asks for specific project ideas. You can skip if you don’t have one.
 - page 5 : final page for "any additional comments" and submission
 
-We hope that you can complete pages 1 and 2 and then submit it (with any additional comments you might have) on the final page.
+**We hope that you can complete pages 1 and 2 and then submit it (with any additional comments you might have) on the final page.**
+
+### Our recommended ranking for page 2
 
 For page 2, they provide 11 strategies to rank, and allow for responders to add up to 3 more; you then drag them around to put them in your priority order. We suggest the following priority order (our additional strategies are indicated with Other, so you'll have to type, or cut and paste, these in), but you can of course choose your own:
 1. Other 1 : Reauthorize the federal Rio Grande project to allow for environmental water transfers and instream flows to benefit fish and wildlife
