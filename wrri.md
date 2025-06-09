@@ -46,6 +46,8 @@ For page 2, they provide 11 strategies to rank, and allow for responders to add 
 1. Reduce flood risks and sediment transport through improving built infrastructure
 1. Add ability for flood control dams to store stormwater for agricultural and recharge use
 
-Please help to restore a flowing river by responding! Your input can make a difference.
+**Please help to restore a flowing river by responding! Your input can make a difference.**
+
+   [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
 
 
