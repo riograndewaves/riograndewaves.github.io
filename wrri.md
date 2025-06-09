@@ -1,3 +1,9 @@
+---
+layout: page
+title : WRRI survey
+---
+
+
 ## Make a difference -- provide input on a survey 
 
    The Bureau of Reclamation has allocated $60 million to mitigate drought impacts on the lower Rio Grande. The Water Resources Research Institute (WRRI) is seeking public input related to how to spend this money. 
