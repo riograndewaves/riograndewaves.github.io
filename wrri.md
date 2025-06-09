@@ -20,7 +20,7 @@ They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e
 
 - page 1: give your contact info and interest in participating in working meetings
 - page 2 : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. Below is our recommended ranking.
-- page 3 : asks for input on "project prioritization", which gives their proposed evaluation scheme.  You can provide any comments on the approach in the general comments at the end of the survey.
+- page 3 : asks for input on "project prioritization", which gives their proposed evaluation scheme.  If you have any comments on their approach, you can provide them in the general comments box on page 5.
 - page 4 : asks for specific project ideas. You can skip if you don’t have one.
 - page 5 : final page for "any additional comments" and submission
 
