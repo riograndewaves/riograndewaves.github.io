@@ -32,7 +32,7 @@ They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e
 
 ### Our recommended ranking for page 2
 
-For page 2, they provide 11 strategies to rank, and allow for responders to add up to 3 more; you then drag them around to put them in your priority order. We suggest the following priority order (our additional strategies are indicated with Other, so you'll have to type, or cut and paste, these in), but you can of course choose your own:
+For page 2, they provide 11 strategies to rank, and allow for responders to add up to 3 more; you then drag them around to put them in your priority order. We suggest the following priority order (our additional strategies are indicated with Other, so you'll have to type, or cut and paste, these in), but, of course, you can modify as you see fit:
 1. Other 1 : Reauthorize the federal Rio Grande project to allow for environmental water transfers and environmental flows to benefit native wildlife and their habitat
 1. Integrated river management program to restore a bosque, natural river health and functions, and riparian habitat throughout the river corridor
 1. Create and/or sustain areas of bosque (which has river health, wildlife habitat, and recreation benefits), with an emphasis on high quality habitat for native riparian birds
