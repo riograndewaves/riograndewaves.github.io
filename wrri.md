@@ -34,7 +34,7 @@ For page 2, they provide 11 strategies to rank, and allow for responders to add 
 1. Other 1 : Reauthorize the federal Rio Grande project to allow for environmental water transfers and environmental flows to benefit native wildlife and their habitat
 1. Integrated river management program to restore a bosque, natural river health and functions, and riparian habitat throughout the river corridor
 1. Create and/or sustain areas of bosque (which has river health, wildlife habitat, and recreation benefits), with an emphasis on high quality habitat for native riparian birds
-1. Other 2 : Include more diverse set of stakeholders, including the general public, tribal entities, academic and scientific communities, environmental organizations, and the recreation industry, in decisions related to water management administration and use 
+1. Other 2 : Include more diverse set of stakeholders, including the general public, tribal entities, academic and scientific communities, environmental organizations, and the recreation industry, in decisions related to water management, administration, and use 
 1. Other 3 : Moratorium on new pecan and any other high, fixed-demand water use crops, and implementation of program to incentivize retiring existing irrigated agricultural lands to establish native grassland, shrub, and riparian habitat 
 1. Policies and programs to voluntarily incentivize farm water demand reduction and conservation (e.g. cover crops, shifts to profitable low-water use crops)
 1. Aim to achieve groundwater resiliency for today and future generations (recharge to the aquifer is balanced with groundwater use by combinations of strategies)
