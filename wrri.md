@@ -35,7 +35,7 @@ For page 2, they provide 11 strategies to rank, and allow for responders to add 
 1. Integrated river management program to restore a bosque, natural river health and functions, and riparian habitat throughout the river corridor
 1. Create and/or sustain areas of bosque (which has river health, wildlife habitat, and recreation benefits), with an emphasis on high quality habitat for native riparian birds
 1. Other 2 : Include more diverse set of stakeholders, including the general public, tribal entities, academic and scientific communities, environmental organizations, and the recreation industry, in decisions related to water management, administration, and use 
-1. Other 3 : Moratorium on new pecan and any other high, fixed-demand water use crops, and implementation of program to incentivize retiring existing irrigated agricultural lands to establish native grassland, shrub, and riparian habitat 
+1. Other 3 : Moratorium on new pecan and any other high, fixed-demand water use crops, and implementation of program to incentivize fallowing existing irrigated agricultural lands to establish native grassland, shrub, and riparian habitat 
 1. Policies and programs to voluntarily incentivize farm water demand reduction and conservation (e.g. cover crops, shifts to profitable low-water use crops)
 1. Aim to achieve groundwater resiliency for today and future generations (recharge to the aquifer is balanced with groundwater use by combinations of strategies)
 1. Restore upper watersheds to reduce floods and sediments washing into the valley, including grazing management to advance and support restoration and respond to droughts
@@ -46,7 +46,7 @@ For page 2, they provide 11 strategies to rank, and allow for responders to add 
 1. Reduce flood risks and sediment transport through improving built infrastructure
 1. Add ability for flood control dams to store stormwater for agricultural and recharge use
 
-**Please help to restore a flowing river by responding! Your input can make a difference. The deadline is June 30.**
+**Please help to restore a flowing river by responding! Your input can make a difference. The deadline is June 30. Do it now!**
 
    [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
 
