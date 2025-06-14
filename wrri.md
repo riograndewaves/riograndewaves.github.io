@@ -22,16 +22,18 @@ They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e
    [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
 
 - page 1: give your contact info and interest in participating in working meetings
-- page 2 : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. Below is our recommended ranking.
+- page 2 : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. [Below](projects#ranking) is our recommended ranking.
 - page 3 : asks for input on "project prioritization", which gives their proposed evaluation scheme.  If you have any comments on their approach, you can provide them in the general comments box on page 5.
-- page 4 : asks for specific project ideas. You can skip if you don’t have one. If you are interested in adding some, see [this page](projects.md) for some information on other projects that have been submitted.
-- page 5 : final page for "any additional comments" and submission. See [this page](comments.md) for some possibile comments.
+- page 4 : asks for specific project ideas. You can skip if you don’t have one. If you are interested in adding some, see [this page](projects) for some information on other projects that have been submitted.
+- page 5 : final page for "any additional comments" and submission. See [this page](comments) for some possibile comments.
 
 **We hope that you can at least complete pages 1 and 2 and then submit it (with any additional comments you might have) on the final page.**
 
    [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
 
 ### Our recommended ranking for page 2
+
+<A LABEL=ranking> 
 
 For page 2, they provide 11 strategies to rank, and allow for responders to add up to 3 more; you then drag them around to put them in your priority order but, of course, you can modify as you see fit.
 You will first have to enter the "Other #1, #2, and #3 strategies, e.g., by cutting and pasting from below) 
