@@ -5,6 +5,7 @@ title : WRRI survey
 
 <iframe width="280" height="157" src="https://www.youtube.com/embed/X1NruG6V8H4?si=q7fb5VPWY9lmv-V-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="137" height="170" src="https://www.youtube.com/embed/ZdokBepbSkg" title="The Water Is Coming ¡Ya Viene La Agua! Draft 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Make a difference -- provide input on a survey 
 
@@ -23,7 +24,7 @@ They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e
 - page 1: give your contact info and interest in participating in working meetings
 - page 2 : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. Below is our recommended ranking.
 - page 3 : asks for input on "project prioritization", which gives their proposed evaluation scheme.  If you have any comments on their approach, you can provide them in the general comments box on page 5.
-- page 4 : asks for specific project ideas. You can skip if you don’t have one.
+- page 4 : asks for specific project ideas. You can skip if you don’t have one. If you are interested in adding some, see [this page](projects.md) for some information on other projects that have been submitted.
 - page 5 : final page for "any additional comments" and submission
 
 **We hope that you can complete pages 1 and 2 and then submit it (with any additional comments you might have) on the final page.**
