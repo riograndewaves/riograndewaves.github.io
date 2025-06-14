@@ -14,9 +14,9 @@ Rio Grande WAVES (Water Advocates for Vital Environmental Sustainability) is a l
 
 ### Regional water planning
 
-- [WRRI survey](wrri) on strategies for how to spend $60 million on the Rio Grande in southern NM. Provide input by June 15!
+- [WRRI survey](wrri) on strategies for how to spend $60 million on the Rio Grande in southern NM. Provide input by June 30, 20205!
 
-- Attend the [Lower Rio Grande Region Water Planning Open House](https://mainstreamnm.org/events/lower-rio-grande-region-water-planning-open-house-in-las-cruces/) : Information about the July 24 event!
+- Attend the [Lower Rio Grande Region Water Planning Open House](https://mainstreamnm.org/events/lower-rio-grande-region-water-planning-open-house-in-las-cruces/) : Information about the July 24, 2024 event!
   - online input is also possible at [https://mainstreamnm.org/online-open-house/](https://mainstreamnm.org/online-open-house/)
 
   - <b>Make your voice heard!</b>
@@ -29,7 +29,7 @@ Rio Grande WAVES (Water Advocates for Vital Environmental Sustainability) is a l
 
 - [Lower Rio Grande water infographic](Infographic Final (3).pdf)
 
-### July 17 Healthy Waters, Healthy Futures Workshop
+### July 17, 2024 Healthy Waters, Healthy Futures Workshop
 
 - [Fred Phillips talk:Assessment of Impacts of Climate on New Mexico Water Resources over the Next 50 Years](Phillips Water-Climate_Las Cruces 2024.pdf)
 
@@ -37,7 +37,7 @@ Rio Grande WAVES (Water Advocates for Vital Environmental Sustainability) is a l
 
 - [Chilton Tippin talk: Regional Water Planning](Regional Water Planning - Chilton Tippin.pdf)
 
-### June 26 Healthy Waters, Healthy Futures Workshop
+### June 26, 2024 Healthy Waters, Healthy Futures Workshop
 
 - [Information on the film: Requiem For A River](https://www.requiemforariver.com/)
 
