@@ -25,15 +25,16 @@ They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e
 - page 2 : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. Below is our recommended ranking.
 - page 3 : asks for input on "project prioritization", which gives their proposed evaluation scheme.  If you have any comments on their approach, you can provide them in the general comments box on page 5.
 - page 4 : asks for specific project ideas. You can skip if you don’t have one. If you are interested in adding some, see [this page](projects.md) for some information on other projects that have been submitted.
-- page 5 : final page for "any additional comments" and submission
+- page 5 : final page for "any additional comments" and submission. See [this page](comments.md) for some possibile comments.
 
-**We hope that you can complete pages 1 and 2 and then submit it (with any additional comments you might have) on the final page.**
+**We hope that you can at least complete pages 1 and 2 and then submit it (with any additional comments you might have) on the final page.**
 
    [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
 
 ### Our recommended ranking for page 2
 
-For page 2, they provide 11 strategies to rank, and allow for responders to add up to 3 more; you then drag them around to put them in your priority order. We suggest the following priority order (our additional strategies are indicated with Other, so you'll have to type, or cut and paste, these in), but, of course, you can modify as you see fit:
+For page 2, they provide 11 strategies to rank, and allow for responders to add up to 3 more; you then drag them around to put them in your priority order but, of course, you can modify as you see fit.
+You will first have to enter the "Other #1, #2, and #3 strategies, e.g., by cutting and pasting from below) 
 1. Other 1 : Reauthorize the federal Rio Grande project to allow for environmental water transfers and environmental flows to benefit native wildlife and their habitat
 1. Integrated river management program to restore a bosque, natural river health and functions, and riparian habitat throughout the river corridor
 1. Create and/or sustain areas of bosque (which has river health, wildlife habitat, and recreation benefits), with an emphasis on high quality habitat for native riparian birds
