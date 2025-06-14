@@ -1,6 +1,5 @@
 ---
 layout: page
-title : WRRI comments
 ---
 
 Page 5 allows you to enter your own comments. Here are some comments that we consider important :

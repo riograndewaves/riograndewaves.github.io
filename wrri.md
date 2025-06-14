@@ -1,6 +1,5 @@
 ---
 layout: page
-title : WRRI survey
 ---
 
 <iframe width="280" height="157" src="https://www.youtube.com/embed/X1NruG6V8H4?si=q7fb5VPWY9lmv-V-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

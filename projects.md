@@ -1,6 +1,5 @@
 ---
 layout: page
-title : WRRI projects
 ---
 
 - Trickle charging the aquifer
