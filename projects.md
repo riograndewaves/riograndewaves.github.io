@@ -2,6 +2,8 @@
 layout: page
 ---
 
+Here are some projects that Rio Grande Waves are proposing. If you would like to support these by entering them on page #4 of the form, that would be great! If you have other ideas for projects, enter them there.
+
 - Trickle charging the aquifer
   - Location: Caballo dam to state line
   - Description: We propose a simple project : to maintain low-level flows in the Rio Grande outside of the irrigation season that will recharge the aquifer through the river channel, support native habitat, while at the same time keeping all of the water in New Mexico in an efficient storage location ... the aquifer.  At the WRRI workshop, it was stated that the most effective location to recharge the aquifer is through the river channel. The best native habitat is also located along the river channel; however, the ability to restore habitat is severely limited by the lack of water in the river for a large fraction of the year. Given drought and surface water shortage, farmers irrigate predominantly from the aquifer. Finally, evaporative losses from the aquifer are negligible and far less than from a reservoir.
