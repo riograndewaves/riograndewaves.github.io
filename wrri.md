@@ -12,7 +12,7 @@ layout: page
 
 **Please help to restore a living river by responding! Your input can make a difference.**
 
-They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d) for people to rank strategies (we have some suggestions below!) to mitigate droughts. It would be great if a large number of people (you!) could respond. **The deadline for input is June 30.**
+WRRI has ann [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d) for people to rank strategies (**we have some suggestions below!**) to mitigate droughts. It would be great if a large number of people (you!) could respond. **The deadline for input is June 30.**
 
 
 ### Quick roadmap of survey
