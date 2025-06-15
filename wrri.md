@@ -33,7 +33,7 @@ WRRI has ann [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e
 
 ### Our recommended ranking for page 2
 
-<A LABEL=ranking> 
+<A NAME=ranking> 
 
 For page 2, they provide 11 strategies to rank, and allow for responders to add up to 3 more; you then drag them around to put them in your priority order but, of course, you can modify as you see fit.
 You will first have to enter the "Other #1, #2, and #3 strategies, e.g., by cutting and pasting from below) 
