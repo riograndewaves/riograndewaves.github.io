@@ -12,9 +12,12 @@ layout: home
 
 Rio Grande WAVES (Water Advocates for Vital Environmental Sustainability) is a local, pop-up water movement launched by volunteers with an interest in increasing public input into decisions affecting water in order to secure a sustainable water future for our river and cultural and natural heritage on the Lower Rio Grande.
 
-### Regional water planning
 
-- [WRRI survey](wrri) on strategies for how to spend $60 million on the Rio Grande in southern NM. Provide input by June 30, 20205!
+### Drought resiliency effort
+
+- [WRRI survey](wrri) on strategies for how to spend $60 million on the Rio Grande in southern NM. Provide input by June 30, 2025!
+
+### Regional water planning
 
 - Attend the [Lower Rio Grande Region Water Planning Open House](https://mainstreamnm.org/events/lower-rio-grande-region-water-planning-open-house-in-las-cruces/) : Information about the July 24, 2024 event!
   - online input is also possible at [https://mainstreamnm.org/online-open-house/](https://mainstreamnm.org/online-open-house/)
