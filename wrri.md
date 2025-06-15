@@ -22,7 +22,7 @@ WRRI has ann [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e
    [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
 
 - **page 1**: give your contact info and interest in participating in working meetings
-- **page 2** : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. [Below](#ranking) is our recommended ranking.
+- **page 2** : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. **[Below](#ranking) is our recommended ranking**.
 - page 3 : asks for input on "project prioritization", which gives their proposed evaluation scheme.  If you have any comments on their approach, you can provide them in the general comments box on page 5, but **no input is needed here**.
 - page 4 : asks for specific project ideas. **You can skip this**. (If you are interested, see [this page](projects) for some information on other projects that we have submitted.)
 - page 5 : final page for "any additional comments" and submission. See [this page](comments) for some possibile comments.
