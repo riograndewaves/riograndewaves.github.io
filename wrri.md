@@ -6,11 +6,11 @@ layout: page
 
 <iframe width="300" height="170" src="https://www.youtube.com/embed/ZdokBepbSkg" title="The Water Is Coming ¡Ya Viene La Agua! Draft 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Make a difference -- provide input on a survey 
+## Make a difference -- help restore a living river
 
    The Bureau of Reclamation has allocated $60 million of taxpayer dollars to mitigate drought impacts on the lower Rio Grande. The Water Resources Research Institute (WRRI) seeks public input on how to spend this money. 
 
-**Please help to restore a flowing river by responding! Your input can make a difference.**
+**Please help to restore a living river by responding! Your input can make a difference.**
 
 They have an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d) for people to rank strategies (we have some suggestions below!) to mitigate droughts. It would be great if a large number of people (you!) could respond. **The deadline for input is June 30.**
 
