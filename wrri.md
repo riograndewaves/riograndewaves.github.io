@@ -14,14 +14,14 @@ layout: page
 
 **Please help to restore a living river by responding! Your input can make a difference.**
 
-WRRI has ann [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d) for people to rank strategies (**we have some suggestions below!**) to mitigate droughts. It would be great if a large number of people (you!) could respond. **The deadline for input is June 30.**
+WRRI has an [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d){:target="_blank"} for people to rank strategies (**we have some suggestions below!**) to mitigate droughts. It would be great if a large number of people (you!) could respond. **The deadline for input is June 30.**
 
 
 ### Quick roadmap of survey
 
    The survey can be completed in just a few minutes -- you can do it now! It has 5 pages:
 
-   [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
+   [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d){:target="_blank"}
 
 - **page 1**: give your contact info and interest in participating in working meetings
 - **page 2** : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. **Our recommended ranking is given [below](#ranking).**
@@ -31,7 +31,7 @@ WRRI has ann [online survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e
 
 **We hope that you can at least complete pages 1 and 2 and then submit it (with any additional comments you might have) on the final page.**
 
-   [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
+   [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d){:target="_blank"}
 
 ### Our recommended ranking for page 2
 
@@ -57,6 +57,6 @@ You will first have to enter the "Other #1, #2, and #3 strategies, e.g., by cutt
 
 **Please help to restore a flowing river by responding! Your input can make a difference. The deadline is June 30. Do it now!**
 
-   [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d)
+   [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d){:target="_blank"}
 
 
