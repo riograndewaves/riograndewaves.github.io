@@ -10,7 +10,7 @@ layout: page
 
 <iframe width="300" height="170" src="https://www.youtube.com/embed/Kgab5ICoWJI" title="The Water Is Coming ¡Ya Viene La Agua!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Make a difference -- help restore a living river
+## Make a difference -- help restore a living Rio Grande in Southern NM
 
    The Bureau of Reclamation has allocated $60 million of taxpayer dollars to mitigate drought impacts on the lower Rio Grande. The Water Resources Research Institute (WRRI) seeks public input on how to spend this money. 
 
