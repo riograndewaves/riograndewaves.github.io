@@ -12,7 +12,7 @@ layout: page
 
 ## Make a difference -- help restore a living Rio Grande in Southern NM
 
-   The Bureau of Reclamation has allocated $60 million of taxpayer dollars to mitigate drought impacts on the lower Rio Grande. The Water Resources Research Institute (WRRI) seeks public input on how to spend this money. 
+   The Bureau of Reclamation has allocated $60 million of taxpayer dollars to mitigate drought impacts on the lower Rio Grande from Elephant Butte Dam to the state line. The Water Resources Research Institute (WRRI) seeks public input on how to spend this money. 
 
 WRRI has an online survey for people to rank strategies (**we have some suggestions below!**) to mitigate the effect of drought. It would be great if a large number of people (you!) could respond. 
 
