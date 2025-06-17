@@ -27,7 +27,7 @@ WRRI has an online survey for people to rank strategies (**we have some suggesti
 - **page 1**: give your contact info and interest in participating in working meetings
 - **page 2** : Asks you to rank "strategies" to mitigate drought. It gives 11 such strategies, plus space to add up to 3 others. **Our recommended ranking is given [below](#ranking).**
 - page 3 : asks for input on "project prioritization", which gives their proposed evaluation scheme.  If you have any comments on their approach, you can provide them in the general comments box on page 5, but **no input can be added on this page**.
-- page 4 : asks for specific project ideas. **You can skip this**. (If you are interested, see [here](projects) for some information on some projects that we have submitted.)
+- page 4 : asks for specific project ideas. **You can skip this** (unless you have one!). 
 - page 5 : final page for "any additional comments" and submission. See [here](comments) for some possible comments.
 
 **We hope that you can at least complete pages 1 and 2 and then submit it (with any additional comments you might have) on the final page.**
