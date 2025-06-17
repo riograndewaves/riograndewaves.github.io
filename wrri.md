@@ -16,7 +16,7 @@ layout: page
 
 WRRI has an online survey for people to rank strategies (**we have some suggestions below!**) to mitigate the effect of drought. It would be great if a large number of people (you!) could respond. 
 
-**Please help to restore a living river by responding! Your input can make a difference. The deadline is June 30, 205**
+**Please help to restore a living river by responding! Your input can make a difference. The deadline is June 30, 2025**
 
 ### Quick roadmap of survey
 
@@ -56,7 +56,7 @@ You will first have to enter the "Other #1, #2, and #3 strategies, e.g., by cutt
 1. Reduce flood risks and sediment transport through improving built infrastructure
 1. Add ability for flood control dams to store stormwater for agricultural and recharge use
 
-**Please help to restore a flowing river by responding! Your input can make a difference. The deadline is June 30. Do it now!**
+**Please help to restore a flowing river by responding! Your input can make a difference. The deadline is June 30, 2025. Do it now!**
 
    [Link to survey](https://survey123.arcgis.com/share/2acd82fb2ab94a9e915283875d4fdc1d){:target="_blank"}
 
